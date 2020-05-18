@@ -11,7 +11,7 @@ return array;
 }
 
 function whileLoop(number) {
-  let i = 25;
+  let i = 37;
   
   while (i > 0) {
     console.log(-- i);
