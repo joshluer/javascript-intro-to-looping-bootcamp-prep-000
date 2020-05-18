@@ -10,7 +10,7 @@ function forLoop(array) {
 return array;
 }
 
-function whileLoop(number) {
+function doWhileLoop(num) {
   let n = 10;
   
   while (n > 0) {
