@@ -14,7 +14,7 @@ function whileLoop(number) {
   let i = 25;
   
   while (i > 0) {
-    console.log(i);
+    console.log(-- countdown);
   }
   return "done";
 }
