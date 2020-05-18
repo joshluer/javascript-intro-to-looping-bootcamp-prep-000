@@ -11,7 +11,7 @@ return array;
 }
 
 function whileLoop(number) {
-  let i = 100;
+  let i = 10;
   
   while (i > 0) {
     console.log(-- i);
