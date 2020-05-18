@@ -11,10 +11,10 @@ return array;
 }
 
 function whileLoop(number) {
-  let i = 10;
+  let n = 10;
   
-  while (i > 0) {
-    console.log(-- i);
+  while (n > 0) {
+    console.log(-- n + "done");
   }
-  return "done";
+  //return "done";
 }
